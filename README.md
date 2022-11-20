@@ -75,7 +75,7 @@
 
 <h3 align="left">Showcase :</h3>  
 
-*More on my [website](https://dilum.dev)*  
+*More on my [website](https://dilums.com)*  
 
 | | | 
 :-------------------------:|:-------------------------:
